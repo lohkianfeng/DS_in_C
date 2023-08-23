@@ -28,7 +28,7 @@ int	main(void)
 	printf("9: %f\n", sqrt(i));
 	printf("9: %d\n", ft_sqrt(i));
 
-	i = 2147483649;
+	i = 21474835000;
 	printf("2147483649: %f\n", sqrt(i));
 	printf("2147483649: %d\n", ft_sqrt(i));
 
